@@ -16,3 +16,5 @@
 - Strategic significance:
 - Classification:
 - Last updated:
+
+- Fairground Entertainment (Fairground AI Creator TV)
