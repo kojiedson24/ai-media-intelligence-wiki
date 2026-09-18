@@ -6,10 +6,11 @@ This site is where I collect useful research, tools, workflows, company notes, a
 
 ## Main sections
 
-- [Companies](./companies.md)
-- [Tools](./tools.md)
-- [Workflows](./workflows.md)
-- [Briefings](./briefings.md)
+- [Executive Briefings](./executive-briefings.md)
+- [Platform Profiles](./platform-profile.md)
+- [Workflows](./workflow-notes.md)
+- [Regional Research](./regional-research.md)
+- [Critical Issues](./critical-issues.md)
 
 ## Purpose
 
