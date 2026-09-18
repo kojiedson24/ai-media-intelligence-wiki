@@ -17,4 +17,4 @@
 - Classification:
 - Last updated:
 
-- Fairground Entertainment (Fairground AI Creator TV)
+[Fairground Entertainment (Fairground AI Creator TV)](./fairground.md)
